@@ -1,4 +1,4 @@
 # Python
 Data Structures and Algorithms implemented with Python
 
--FizzBuzz
+-FizzBuzz (4 Implementations)
