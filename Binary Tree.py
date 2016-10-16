@@ -1,7 +1,6 @@
 '''
 Binary Tree Implementation
 
-Referenced from: http://stackoverflow.com/questions/2598437/how-to-implement-a-binary-tree-in-python
 '''
 
 class Node(object):
