@@ -6,3 +6,7 @@ Data Structures and Algorithms implemented with Python
 -Singly Linked List
 
 -Binary Search Tree
+
+-String Reverse
+
+-Zip Problem
